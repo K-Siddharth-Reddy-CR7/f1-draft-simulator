@@ -1,0 +1,7 @@
+{
+  "name": "Pitwall HQ",
+  "description": "Full-stack Formula 1 team management and Grand Prix season simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
